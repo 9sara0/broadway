@@ -31,3 +31,10 @@ p a {
 .progress-item p {
   font-size: 14px;
 }
+
+.design {
+  background-image: url(../images/the-flatiron-building.png);
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
