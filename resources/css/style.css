@@ -17,3 +17,17 @@ p a {
   font-size: 18px;
   color: white;
 }
+
+.progress h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.progress-item h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.progress-item p {
+  font-size: 14px;
+}
